@@ -16,16 +16,16 @@ In the repository, you will find a bunch of directories. Each directory is a lab
 
 ## Submitting Your Work
 
-If you are an enrolled student, **you are required to complete all labs and submit your solutions before your cohort starts**. Your Program Manager will send you information on how to submit your work.
+If you are an enrolled student, **you are required to submit your solutions before your cohort starts**. Your Program Manager will send you information on how to submit your work.
 
 ## Suggested Order Based on Difficulty
 
 1. [Snail and well](./snail-and-well)
 1. [Duel of sorcerers](./duel)
 1. [Bus](./bus)
-1. [Robin Hood](robin-hood)
-1. [Processor temperature](temperatures)
-1. [Rock Paper Scissors](rock–paper–scissors)
+1. [Robin Hood](./robin-hood)
+1. [Processor temperature](./temperature)
+1. [Rock Paper Scissors](./rock–paper–scissors)
 
 ## Q/A example
 
@@ -34,15 +34,18 @@ If you are an enrolled student, **you are required to complete all labs and subm
 Question: How old are you if you were born in 1990?
 
 ### Answer
+
 ```
 current = 2019
 born = 1990
 age = current - born
 print ('Age =', age)
 ```
+
 ### Output
+
 ```
 >>> Age = 29
 ```
 
-Do as much as you can and good luck. In some cases the use of functions is recommended. 
+Try your best and good luck. In some cases the use of functions is recommended. 
