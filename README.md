@@ -1,51 +1,39 @@
-# Ironhack Data Analytics Bootcamp Prework Labs
+<img src="https://bit.ly/2VnXWr2" width="100">
 
-This repository contains the labs for the Ironhack Data Analytics Bootcamp Prework. 
+# Prework
+*Ironhack Data Analytics Bootcamp*
 
-**If you are an enrolled student in our upcoming bootcamp**, you can receive support from our instructional staff while you are working on these lab. Your Program Manager will send you information about how to reach out to our instructional support team.
+## Introduction
+This repository contains the prework for the Ironhack Data Analytics Bootcamp. 
 
-**If you are not an enrolled student but find our repository in GitHub**, feel free to use this lab for personal, non-commcercial purposes. The codes are provided AS IS without support.
+**If you are an enrolled student in our upcoming bootcamp**, you can receive support from our instructional staff while you are working on these challenges. Your Program Manager will send you information about how to reach out to our instructional support team.
+
+**If you are not an enrolled student but find our repository in GitHub**, feel free to use it for personal, non-commcercial purposes. The codes are provided AS IS without support.
 
 ## Getting Started
 
-You need to take our Prework lessons in our LMS and install Python, Jupyter Notebook, and other required software before taking these labs.
+Before starting with the challenges, read the Prework lessons in LMS (Ironhack's student platform) and make sure you've installed all the required software. To complete the Prework exercises, you will mainly need Python 3 and Jupyter Notebook. 
 
-To get started, check out this repository to your local file system. Navigate to the repository directory in command line then start Jupyter Notebook. Take the labs based on the order suggested in the next section.
+To get started, fork this repository and clone it to your local file system. Navigate to the repository directory using the command line and then, start Jupyter Notebook.
 
-In the repository, you will find a bunch of directories. Each directory is a lab and it contains a Jupyter Notebook (`.ipynb`) file. Open the notebook file in browser. Then follow the step-by-step instructions to solve the challenge in the interactive coding environment.
+In the repository, you will find two directories: Python and Statistics. 
+
+#### Python
+To complete the Python exercises, navigate to the Python directory. This directory includes a bunch of folders, each with a problem for you to solve. Refer to the `README.md` file for further instructions.
+
+#### Statistics
+To complete the statistics exercises, navigate to the Statistics directory, where you will find instructions about how to complete the statistics challenges in the `README.md` file found there.
+
+## Deliverables
+The files you need to submit are:
+- The `.ipynb` files of each Python challenge including the solutions.
+- Screenshots of all the challenges in the `Data Science Math Skills` course in Coursera. 
 
 ## Submitting Your Work
 
-If you are an enrolled student, **you are required to submit your solutions before your cohort starts**. Your Program Manager will send you information on how to submit your work.
+If you are an enrolled student, **you are required to submit your solutions before your course starts**. 
 
-## Suggested Order Based on Difficulty
+## Summary
+Read the instructions of the prework challenges carefully. Remember that if you have any doubt, you can reach out to Ironhack's instructional support team.  
 
-1. [Snail and well](./snail-and-well)
-1. [Duel of sorcerers](./duel)
-1. [Bus](./bus)
-1. [Robin Hood](./robin-hood)
-1. [Processor temperature](./temperature)
-1. [Rock Paper Scissors](./rock–paper–scissors)
-
-## Q/A example
-
-### Question
-
-Question: How old are you if you were born in 1990?
-
-### Answer
-
-```
-current = 2019
-born = 1990
-age = current - born
-print ('Age =', age)
-```
-
-### Output
-
-```
->>> Age = 29
-```
-
-Try your best and good luck. In some cases the use of functions is recommended. 
+Try your best and good luck!
